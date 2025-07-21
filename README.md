@@ -108,6 +108,7 @@ Filippos Psarros
 
 informatics and telecommunications Student
 
-GitHub: psarrosfilipposoading
+GitHub: psarrosfilippos
 
+Full project report and results -> https://github.com/psarrosfilippos/IoT-Environmental-Monitoring-System/blob/87e7a983ac6d317e6ca5c5c2b82d06935e5b1e06/IoT_Environmental_Monitoring_System_report.pdf
 [README.md](https://github.com/user-attachments/files/21340188/README.md)
